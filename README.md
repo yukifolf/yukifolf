@@ -3,8 +3,8 @@
 
 
 ## 🚀 About Me
-I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in computer science since early childhood. I also enjoy sailing and swimming.
-Coffee lover [![coffee](./gifs/coffee.gif)]
+I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in computer science since early childhood. I also enjoy sailing and swimming.<br>
+Coffee lover ![coffee](./gifs/coffee.gif)
 
 
 ## 🔗 Links

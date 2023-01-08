@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in IT since early childhood. I also enjoy sailing and swimming also
+I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in IT since early childhood. I also enjoy sailing and swimming and
 coffee lover ![coffee](./gifs/coffee.gif)
 <br><br><br>
 <img src="https://komarev.com/ghpvc/?username=yatahu&style=flat-square&color=blue" alt=""/>

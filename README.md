@@ -17,6 +17,7 @@ I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-tau
 <img src="./img/git.svg.webp" style="height:60px;margin-right=5px; "> &nbsp;
 <img src="./img/mssql.webp" style="height:60px;margin-right=5px; "> &nbsp;
 <img src="https://www.nginx.com/wp-content/uploads/2020/07/nginx-default_featured-2020.png"  style="height:60px;margin-right=5px;"> &nbsp;
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"  style="height:60px;margin-right=5px;"> &nbsp;
 <br><br><br>
 
 🧠 I'm currently learning...<br><br>

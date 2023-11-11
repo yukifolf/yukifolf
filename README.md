@@ -34,7 +34,7 @@ I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-tau
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-szyjka-0a4133b8/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wojtek_szyjka)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuki_folf)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn7hP7sCSNAV0LN7H-j7ESg)
 [![instagram](https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UCn7hP7sCSNAV0LN7H-j7ESg)
 

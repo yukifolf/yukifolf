@@ -30,7 +30,7 @@ I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-tau
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yatahu&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=yatahu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=yukifolf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-szyjka-0a4133b8/)

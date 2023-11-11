@@ -1,5 +1,5 @@
 
-# Hi, I'm Wojtek! ![cat](./gifs/cat.gif)
+# <span style="color:White">Hi, I'm Wojtek!</span>
 
 
 ## 🚀 About Me

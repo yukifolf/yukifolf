@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in IT since early childhood. Currently working as Node JS Junior Backend Dev/System Engineer @ Velis RET. I love sailing and swimming and good coffee :3 ![coffee](./gifs/coffee.gif)
+I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in IT since early childhood. Currently working as Node JS Junior Backend Dev/System Engineer @Velis RET. I love sailing and swimming and good coffee :3 ![coffee](./gifs/coffee.gif)
 <br><br><br>
 <img src="https://komarev.com/ghpvc/?username=yatahu&style=flat-square&color=blue" alt=""/>
 

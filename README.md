@@ -17,6 +17,10 @@ I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-tau
 <img src="./img/git.svg.webp" style="height:60px;margin-right=5px; "> &nbsp;
 <img src="./img/mssql.webp" style="height:60px;margin-right=5px; "> &nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"  style="height:60px;margin-right=5px;"> &nbsp;
+<img src="https://www.php.net/images/logos/new-php-logo.png" style="height:60px;margin-right=5px;"> &nbsp;
+<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" style="height:60px;margin-right=5px;"> &nbsp;
+<img src="https://media.ffycdn.net/us/redis/aomgh8ZXTQutczLYPVZa.png?width=600&format=webp&quality=100" style="height:60px;margin-right=5px;"> &nbsp;
+<img src="https://nodejs.org/static/logos/nodejsLight.svg" style="height:60px;margin-right=5px;"> &nbsp;
 <br><br><br>
 
 🧠 I'm currently learning...<br><br>

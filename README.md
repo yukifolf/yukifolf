@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in IT since early childhood. Currently working as Junior Backend Dev @Velis RET. I love sailing and swimming and good coffee ![coffee](./gifs/coffee.gif)
+I'm Applied Computer Science Student on [WSEI](https://wsei.edu.pl) and self-taught early software developer intrested in IT since early childhood. Currently working as System Engineer @HardwareRET. I love sailing and swimming and good coffee ![coffee](./gifs/coffee.gif)
 <br><br><br>
 <img src="https://komarev.com/ghpvc/?username=yatahu&style=flat-square&color=blue" alt=""/>
 
